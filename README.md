@@ -12,4 +12,4 @@ Kaggle open dataset : [Airbnb Open Data](https://www.kaggle.com/datasets/arianaz
 
 
 API command : 
-                                                kaggle datasets download -d arianazmoudeh/airbnbopendata
+```kaggle datasets download -d arianazmoudeh/airbnbopendata```
