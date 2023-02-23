@@ -8,4 +8,6 @@ The following Airbnb activity is included in this New York dataset: Listings, in
 - Data cleaning
 - Data visualization
 ## Data source : 
-Kaggle open dataset : (Airbnb Open Data)[https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata]
+Kaggle open dataset : [Airbnb Open Data](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
+API command : 
+      kaggle datasets download -d arianazmoudeh/airbnbopendata
