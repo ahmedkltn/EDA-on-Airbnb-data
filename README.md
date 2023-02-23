@@ -13,3 +13,5 @@ Kaggle open dataset : [Airbnb Open Data](https://www.kaggle.com/datasets/arianaz
 
 API command : 
 ```kaggle datasets download -d arianazmoudeh/airbnbopendata```
+nb viewer :
+To get a rich view of the notebook use nbviewer : [dataset link](https://nbviewer.org/github/ahmedkltn/EDA_on_Airbnb_data/blob/main/eda-on-airbnb-data.ipynb)
